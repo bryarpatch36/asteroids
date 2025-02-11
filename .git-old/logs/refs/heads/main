@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 aa6705ab22c86fa7b2ff6908491b631dd9d13a22 bryarpatch36 <bryar.bush36@gmail.com> 1739239433 -0600	commit (initial): setup the play window
+aa6705ab22c86fa7b2ff6908491b631dd9d13a22 57573492670cfdbdae4ad95418e420d31237d608 bryarpatch36 <bryar.bush36@gmail.com> 1739241608 -0600	commit: created constants, player, and circleshape. Also changed main to draw the triangle player.
